@@ -1,5 +1,5 @@
 # rgbkeypad_randomblink
-Pimoroni RGB keypad pixels blinking in random colors
+Pimoroni RGB keypad blinks in random colors
 
 Start with:
 
