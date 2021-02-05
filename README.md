@@ -7,7 +7,7 @@ https://github.com/pimoroni/pimoroni-pico
 
 https://github.com/pimoroni/pimoroni-pico/blob/main/setting-up-the-pico-sdk.md
 
-Edit cpp-file in folder: ~/pico/pimoroni-pico/examples/pico_rgb_keypad
+Edit demo.cpp in folder: ~/pico/pimoroni-pico/examples/pico_rgb_keypad
 
 Compile with "make" in: ~/pico/pimoroni-pico/build/examples/pico_rgb_keypad
 
